@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Me
 image:'../images/avatar.jpg'
 comments: false
 modified: 2016-02-01
