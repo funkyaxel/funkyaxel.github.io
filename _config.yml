@@ -9,17 +9,17 @@ url: http://pintsflightsandbites.com
 
 # Owner/author information
 owner: Alex Guardado
-  name:           Alex Guardado
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          alexjguardado@gmail.com
+  name:Alex Guardado
+  avatar:avatar.jpg
+  bio:"Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  email:alexjguardado@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: https://twitter.com/alexjguardado 
-  facebook: https://www.facebook.com/alex.j.guardado     
-  github: https://github.com/pintsflightsandbites     
+  twitter:https://twitter.com/alexjguardado 
+  facebook:https://www.facebook.com/alex.j.guardado     
+  github:https://github.com/pintsflightsandbites     
   stackexchange:  
-  linkedin: https://www.linkedin.com/in/alex-guardado-30291999       
-  instagram: https://instagram.com/alexjguardado      
+  linkedin:https://www.linkedin.com/in/alex-guardado-30291999       
+  instagram:https://instagram.com/alexjguardado      
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
