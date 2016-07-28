@@ -3,7 +3,7 @@ layout: page
 title: About Me
 image:'../images/avatar.jpg'
 comments: false
-modified: 2016-02-01
+modified: 2016-27-7
 ---
 
 They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
